@@ -1,8 +1,8 @@
-body { 
+body {
       background: #CCCCCC
 }
 
-#banner{ 
+#banner{
      width: 100%;
 }
 
@@ -10,14 +10,22 @@ h1 {
 
 }
 
-p { 
+p {
       text align: center;
 }
 
-#missão{ 
+#missão{
         font-size: 20px
  }
 
-em strong { 
+em strong {
        color: #FF0000;
+}
+
+.itens{
+     font-style: italic
+}
+
+.Benefícios{
+        background: #FFFFFF;
 }
